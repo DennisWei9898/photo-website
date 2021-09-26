@@ -1,0 +1,35 @@
+$color_pink_end: #ff95ca;
+$color_blue_end: #1d678f;
+
+@keyframes daylight {
+  0% {
+    background-position: 100% 30%;
+    background-size: 100% 100%;
+  }
+  50% {
+    background-size: 130% 2500%;
+  }
+  100% {
+    background-position: 100% 100%;
+    background-size: 100% 100%;
+  }
+}
+
+nav {
+  //background-color: rgb(155, 107, 155);
+  background: linear-gradient(20deg, $color_pink_end, $color_blue_end);
+  animation: daylight 10s infinite;
+  ul {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 3rem;
+    li {
+      padding: 0.5rem 1rem;
+      cursor: pointer;
+      a {
+        font-size: 1.5rem;
+        color: white;
+      }
+    }
+  }
+}
