@@ -12,7 +12,7 @@ const Nav = () => {
             target="_blank"
             href="https://www.cakeresume.com/dennis-wei-5021c1"
           >
-            About
+            About Me
           </a>
         </li>
       </ul>

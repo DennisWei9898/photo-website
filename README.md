@@ -1,3 +1,11 @@
+# photo-website 網站
+
+- 練習 React ＋ 串接 Pexels API，打造一個方便找美圖的網站
+
+- 預覽網址：https://denniswei9898.github.io/photo-website/
+
+![image](https://github.com/DennisWei9898/photo-website/public/cover.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
