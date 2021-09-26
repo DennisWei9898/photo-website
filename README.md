@@ -4,7 +4,7 @@
 
 - 預覽網址：https://denniswei9898.github.io/photo-website/
 
-![image](https://github.com/DennisWei9898/photo-website/public/cover.png)
+![image](https://github.com/DennisWei9898/photo-website/blob/master/public/cover.png)
 
 # Getting Started with Create React App
 
