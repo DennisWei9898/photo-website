@@ -2,7 +2,7 @@
 
 - 練習 React ＋ 串接 Pexels API，打造一個方便找美圖的網站
 
-- 預覽網址：https://denniswei9898.github.io/photo-website/
+- 預覽網址：https://photo-website-react.herokuapp.com/
 
 ![image](https://github.com/DennisWei9898/photo-website/blob/master/public/cover.png)
 
